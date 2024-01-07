@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I obtained my master degree and bachelor degree from School of Computing, National University of Singapore (NUS) and Hong Kong Baptist University (HKBU), respectively. I am currently conducting research at Hong Kong University of Science and Technology (Guangzhou), under the supervision of Prof.LIANG Yuxuan, assistant professor of DSA Thurst, Information Hub.
+I obtained my master degree and bachelor degree from **School of Computing, National University of Singapore (NUS)** and **Hong Kong Baptist University (HKBU)**, respectively. I am currently conducting research at Hong Kong University of Science and Technology (Guangzhou), under the supervision of Prof.LIANG Yuxuan, assistant professor of DSA Thurst, Information Hub.
 
-Previously, I interned at NLP Team, AI Lab, ByteDance (supervised by Mr.WANG Yang and Dr.LI Hang, director of ByteDance Research), Reefknot Investment (co-supervised by Mr.Marc DRAGON, managing director of Reefknot, and Prof.CHIN Wei Ngan, vice dean of SoC, NUS), and University of California, Berkeley (supervised by Dr.ZHU Qing, research scientist at Lawrence Berkeleey National Laboratory).
+Previously, I had extensive internship experience in both industry and academia, including **NLP Team, AI Lab, ByteDance** (supervised by Mr.WANG Yang and Dr.LI Hang, director of ByteDance Research), **Reefknot Investment** (co-supervised by Mr.Marc DRAGON, managing director of Reefknot, and Prof.CHIN Wei Ngan, vice dean of SoC, NUS), and **University of California, Berkeley** (supervised by Dr.ZHU Qing, research scientist at Lawrence Berkeleey National Laboratory).
 
-My research interests include natural language processing, multimodal representation learning, recommendation systems. Look forward to any academic collaboration.
+My research interests include **natural language processing, multimodal representation learning, data mining applications including urban computing and recommendation systems**. Look forward to any academic collaboration.
 
 
 
@@ -33,23 +33,23 @@ My research interests include natural language processing, multimodal representa
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Education
-- *Sep 2021 - Jul 2023*, National University of Singapore.
-- *Sep 2017 - Jun 2021*, Hong Kong Baptist University (President's Honour Roll).
+- *Sep 2021 - Jul 2023*, **National University of Singapore**.
+- *Sep 2017 - Jun 2021*, **Hong Kong Baptist University** (President's Honour Roll).
 
 
 # 💻 Work Experience
-- *Nov 2022 - Jul 2023*, AI Lab, ByteDance, Singapore.
+- *Nov 2022 - Jul 2023*, **AI Lab, ByteDance**, Singapore.
   - Focus: NLP (esp. user intent recognition & conversation modelling) and Recommendation Systems
   - Supervisors: Mr.WANG Yang (Leader of Conversation Team) & Dr.LI Hang (Director of ByteDance Research)
   - Successfully applied multiple models in real-life applications such as Tiktok Intelligence Customer Service and Douyin E-commerce Platform
 
-- *May 2022 - Sep 2022*, Reefknot Investment, Singapore.
-  - A joint venture between Temasek and Kuehne+Nagel
+- *May 2022 - Sep 2022*, **Reefknot Investment**, Singapore.
+  - A joint venture between **Temasek** and **Kuehne+Nagel**
   - Focus: Graph Analytics, NLP (esp. entity resolution), Federated Learning
   - Supervisors: Mr.Marc DRAGON (Managing Director of Reefknot) and Prof.CHIN Wei Ngan (Associate Professor and Vice Dean of SoC, NUS)
   - Comprehensive tech analysis for target deep-tech start-ups
 
-- *Jul 2020 - Sep 2020*, UC Berkeley, Remote.
+- *Jul 2020 - Sep 2020*, **UC Berkeley**, Remote.
   - Focus: Casual Modelling for Earth Science
   - Supervisor: Dr.ZHU Qing (Research Scientist at Institute for Data Science)
   - Deployed a transfer entropy-based climate diagnostic tool for Pearl River Delta
