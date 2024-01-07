@@ -19,9 +19,9 @@ redirect_from:
 
 I obtained my master degree and bachelor degree from ***[School of Computing](https://www.comp.nus.edu.sg/), National University of Singapore (NUS)*** and ***Hong Kong Baptist University (HKBU)***, respectively. I am currently conducting research at Hong Kong University of Science and Technology (Guangzhou), under the supervision of [Prof.LIANG Yuxuan](https://yuxuanliang.com/), assistant professor of DSA Thurst, Information Hub.
 
-Previously, I had extensive internship experience in both industry and academia, including ***NLP Team, ByteDance AI Lab*** <img src='./images/tiktok.png' style='width: 6em;'> (supervised by Mr.WANG Yang and [Dr.LI Hang](https://scholar.google.com/citations?user=nTl5mSwAAAAJ\&hl=en\&oi=ao), director of ByteDance Research), ***Reefknot Investment*** (co-supervised by [Mr.Marc DRAGON](https://reefknotinvestments.com/team/marc-dragon/), managing director of Reefknot, and [Prof.CHIN Wei Ngan](https://www.comp.nus.edu.sg/~chinwn/), vice dean of SoC, NUS), and ***University of California, Berkeley*** (supervised by [Dr.ZHU Qing](https://bids.berkeley.edu/people/qing-zhu), research scientist at Lawrence Berkeleey National Laboratory).
+Previously, I had extensive internship experience in both industry and academia, including ***NLP Team, ByteDance AI Lab*** (supervised by Mr.WANG Yang and [Dr.LI Hang](https://scholar.google.com/citations?user=nTl5mSwAAAAJ\&hl=en\&oi=ao), director of ByteDance Research), ***Reefknot Investment*** (co-supervised by [Mr.Marc DRAGON](https://reefknotinvestments.com/team/marc-dragon/), managing director of Reefknot, and [Prof.CHIN Wei Ngan](https://www.comp.nus.edu.sg/~chinwn/), vice dean of SoC, NUS), and ***University of California, Berkeley*** (supervised by [Dr.ZHU Qing](https://bids.berkeley.edu/people/qing-zhu), research scientist at Lawrence Berkeleey National Laboratory).
 
-My research interests include **natural language processing, multimodal representation learning, data mining applications including urban computing and recommendation systems**. Look forward to any academic collaboration.
+My research interests include ***natural language processing <img src='./images/text-mining.png' style='height: 1.5em;'>, multimodal representation learning <img src='./images/multimedia.png' style='height: 1.5em;'>, data mining applications including urban computing <img src='./images/infrastructure.png' style='height: 1.5em;'> and recommendation systems <img src='./images/rating.png' style='height: 1.5em;'>***. Look forward to any academic collaboration.
 
 
 
@@ -38,21 +38,21 @@ My research interests include **natural language processing, multimodal represen
 
 
 # 💻 Work Experience
-- *Nov 2022 - Jul 2023*, ***AI Lab, ByteDance***, Singapore.
-  - Focus: NLP (esp. user intent recognition & conversation modelling) and Recommendation Systems
-  - Supervisors: Mr.WANG Yang (Leader of Conversation Team) and [Dr.LI Hang](https://scholar.google.com/citations?user=nTl5mSwAAAAJ\&hl=en\&oi=ao) (Director of ByteDance Research)
-  - Successfully applied multiple models in real-life applications such as Tiktok Intelligence Customer Service and Douyin E-commerce Platform
+- *Nov 2022 - Jul 2023*, ***AI Lab, ByteDance***, Singapore. <img src='./images/tiktok.png' style='width: 6em;'>
+  - **Focus**: NLP (esp. user intent recognition & conversation modelling) and Recommendation Systems
+  - **Supervisors**: Mr.WANG Yang (Leader of Conversation Team) and [Dr.LI Hang](https://scholar.google.com/citations?user=nTl5mSwAAAAJ\&hl=en\&oi=ao) (Director of ByteDance Research)
+  - **Achievement**: Successfully designed and deployed multiple models in real-life applications such as Tiktok Intelligence Customer Service and Douyin E-commerce Platform
 
-- *May 2022 - Sep 2022*, ***Reefknot Investment***, Singapore.
-  - A joint venture between ***Temasek*** and ***Kuehne+Nagel***
-  - Focus: Graph Analytics, NLP (esp. entity resolution), Federated Learning
-  - Supervisors: [Mr.Marc DRAGON](https://reefknotinvestments.com/team/marc-dragon/) (Managing Director of Reefknot) and [Prof.CHIN Wei Ngan](https://www.comp.nus.edu.sg/~chinwn/) (Associate Professor and Vice Dean of SoC, NUS)
-  - Comprehensive tech analysis for target deep-tech start-ups
+- *May 2022 - Sep 2022*, ***Reefknot Investment***, Singapore. <img src='./images/reefknot.png' style='height: 1.5em;'>
+  - A joint venture between ***Temasek*** <img src='./images/temasek.png' style='height: 1.5em;'> and ***Kuehne+Nagel*** <img src='./images/kuehne_nagel.png' style='height: 1.5em;'>
+  - **Focus**: Graph Analytics, NLP (esp. entity resolution), Federated Learning
+  - **Supervisors**: [Mr.Marc DRAGON](https://reefknotinvestments.com/team/marc-dragon/) (Managing Director of Reefknot) and [Prof.CHIN Wei Ngan](https://www.comp.nus.edu.sg/~chinwn/) (Associate Professor and Vice Dean of SoC, NUS)
+  - **Achievement**: Comprehensive tech analysis for target deep-tech start-ups
 
-- *Jul 2020 - Sep 2020*, ***UC Berkeley***, Remote.
-  - Focus: Casual Modelling for Earth Science
-  - Supervisor: [Dr.ZHU Qing](https://bids.berkeley.edu/people/qing-zhu) (Research Scientist at Institute for Data Science)
-  - Deployed a transfer entropy-based climate diagnostic tool for Pearl River Delta
+- *Jul 2020 - Sep 2020*, ***UC Berkeley***, Remote. <img src='./images/UCB.png' style='height: 1.5em;'>
+  - **Focus**: Casual Modelling for Earth Science
+  - **Supervisor**: [Dr.ZHU Qing](https://bids.berkeley.edu/people/qing-zhu) (Research Scientist at Institute for Data Science)
+  - **Achievement**: Developed a transfer entropy-based climate diagnostic tool for Pearl River Delta
 
 
 
@@ -63,7 +63,7 @@ My research interests include **natural language processing, multimodal represen
 
 [When Urban Region Profiling Meets Large Language Models](https://arxiv.org/abs/2310.18340)
 
-**Yibo Yan**, Haomin Wen, Siru Zhong, Wei Chen, Haodong Chen, Qingsong Wen, Roger Zimmermann, Yuxuan Liang
+**<u>Yibo Yan</u>**, Haomin Wen, Siru Zhong, Wei Chen, Haodong Chen, Qingsong Wen, Roger Zimmermann, Yuxuan Liang
 - First-ever LLM-enhanced framework that integrates the knowledge of textual modality into urban imagery profiling.
 
 </div>
@@ -82,8 +82,8 @@ My research interests include **natural language processing, multimodal represen
 - *2023,* Silver Medal <img src='./images/silver-medal.png' style='height: 1.5em;'>, OTTO - Multi-Objective Recommender System, Kaggle Competition.
 - *2023,* Silver Medal <img src='./images/silver-medal.png' style='height: 1.5em;'>, Stable Diffusion - Image to Prompts, Kaggle Competition.
 - *2021,* Best Undergraduate Thesis (Remote Sensing Track) <img src='./images/certificate.png' style='height: 1.5em;'>
-- *2019-2020, 2020-2021,* First-class Academic Award, HKBU
-- *2017-2018, 2018-2019,* Second-class Academic Award, HKBU
+- *2019-2020, 2020-2021,* First-class Academic Award <img src='./images/star-medal.png' style='height: 1.5em;'>, HKBU
+- *2017-2018, 2018-2019,* Second-class Academic Award <img src='./images/silver-medal.png' style='height: 1.5em;'>, HKBU
 
 
 <!-- # 💬 Invited Talks
