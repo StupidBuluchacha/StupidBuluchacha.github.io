@@ -34,7 +34,7 @@ My research interests include **natural language processing, multimodal represen
 
 # 📖 Education
 - *Sep 2021 - Jul 2023*, ***National University of Singapore*** <img src='./images/NUS.png' style='height: 1.5em;'>.
-- *Sep 2017 - Jun 2021*, ***Hong Kong Baptist University*** <img src='./images/HKBU.png' style='width: 6em;'> (President's Honour Roll <img src='./images/certificate.png' style='width: 6em;'>).
+- *Sep 2017 - Jun 2021*, ***Hong Kong Baptist University*** <img src='./images/HKBU.png' style='width: 6em;'> (President's Honour Roll <img src='./images/certificate.png' style='height: 1.5em;'>).
 
 
 # 💻 Work Experience
@@ -79,9 +79,9 @@ My research interests include **natural language processing, multimodal represen
 
 
 # 🎖 Honors and Awards
-- *2023,* Silver Medal <img src='./images/silver-medal.png' style='width: 6em;'>, OTTO - Multi-Objective Recommender System, Kaggle Competition.
-- *2023,* Silver Medal <img src='./images/silver-medal.png' style='width: 6em;'>, Stable Diffusion - Image to Prompts, Kaggle Competition.
-- *2021,* Best Undergraduate Thesis (Remote Sensing Track) <img src='./images/certificate.png' style='width: 6em;'>
+- *2023,* Silver Medal <img src='./images/silver-medal.png' style='height: 1.5em;'>, OTTO - Multi-Objective Recommender System, Kaggle Competition.
+- *2023,* Silver Medal <img src='./images/silver-medal.png' style='height: 1.5em;'>, Stable Diffusion - Image to Prompts, Kaggle Competition.
+- *2021,* Best Undergraduate Thesis (Remote Sensing Track) <img src='./images/certificate.png' style='height: 1.5em;'>
 - *2019-2020, 2020-2021,* First-class Academic Award, HKBU
 - *2017-2018, 2018-2019,* Second-class Academic Award, HKBU
 
