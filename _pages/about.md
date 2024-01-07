@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I obtained my master degree and bachelor degree from **School of Computing, National University of Singapore (NUS)** and **Hong Kong Baptist University (HKBU)**, respectively. I am currently conducting research at Hong Kong University of Science and Technology (Guangzhou), under the supervision of Prof.LIANG Yuxuan, assistant professor of DSA Thurst, Information Hub.
+I obtained my master degree and bachelor degree from **[School of Computing](https://www.comp.nus.edu.sg/), National University of Singapore (NUS)** and **Hong Kong Baptist University (HKBU)**, respectively. I am currently conducting research at Hong Kong University of Science and Technology (Guangzhou), under the supervision of [Prof.LIANG Yuxuan](https://yuxuanliang.com/), assistant professor of DSA Thurst, Information Hub.
 
-Previously, I had extensive internship experience in both industry and academia, including **NLP Team, AI Lab, ByteDance** (supervised by Mr.WANG Yang and Dr.LI Hang, director of ByteDance Research), **Reefknot Investment** (co-supervised by Mr.Marc DRAGON, managing director of Reefknot, and Prof.CHIN Wei Ngan, vice dean of SoC, NUS), and **University of California, Berkeley** (supervised by Dr.ZHU Qing, research scientist at Lawrence Berkeleey National Laboratory).
+Previously, I had extensive internship experience in both industry and academia, including **NLP Team, AI Lab, ByteDance** <img src='./images/tiktok.png' style='width: 6em;'> (supervised by Mr.WANG Yang and [Dr.LI Hang](https://scholar.google.com/citations?user=nTl5mSwAAAAJ\&hl=en\&oi=ao), director of ByteDance Research), **Reefknot Investment** (co-supervised by [Mr.Marc DRAGON](https://reefknotinvestments.com/team/marc-dragon/), managing director of Reefknot, and [Prof.CHIN Wei Ngan](https://www.comp.nus.edu.sg/~chinwn/), vice dean of SoC, NUS), and **University of California, Berkeley** (supervised by [Dr.ZHU Qing](https://bids.berkeley.edu/people/qing-zhu), research scientist at Lawrence Berkeleey National Laboratory).
 
 My research interests include **natural language processing, multimodal representation learning, data mining applications including urban computing and recommendation systems**. Look forward to any academic collaboration.
 
@@ -40,37 +40,38 @@ My research interests include **natural language processing, multimodal represen
 # 💻 Work Experience
 - *Nov 2022 - Jul 2023*, **AI Lab, ByteDance**, Singapore.
   - Focus: NLP (esp. user intent recognition & conversation modelling) and Recommendation Systems
-  - Supervisors: Mr.WANG Yang (Leader of Conversation Team) & Dr.LI Hang (Director of ByteDance Research)
+  - Supervisors: Mr.WANG Yang (Leader of Conversation Team) & [Dr.LI Hang](https://scholar.google.com/citations?user=nTl5mSwAAAAJ\&hl=en\&oi=ao) (Director of ByteDance Research)
   - Successfully applied multiple models in real-life applications such as Tiktok Intelligence Customer Service and Douyin E-commerce Platform
 
 - *May 2022 - Sep 2022*, **Reefknot Investment**, Singapore.
   - A joint venture between **Temasek** and **Kuehne+Nagel**
   - Focus: Graph Analytics, NLP (esp. entity resolution), Federated Learning
-  - Supervisors: Mr.Marc DRAGON (Managing Director of Reefknot) and Prof.CHIN Wei Ngan (Associate Professor and Vice Dean of SoC, NUS)
+  - Supervisors: [Mr.Marc DRAGON](https://reefknotinvestments.com/team/marc-dragon/) (Managing Director of Reefknot) and [Prof.CHIN Wei Ngan](https://www.comp.nus.edu.sg/~chinwn/) (Associate Professor and Vice Dean of SoC, NUS)
   - Comprehensive tech analysis for target deep-tech start-ups
 
 - *Jul 2020 - Sep 2020*, **UC Berkeley**, Remote.
   - Focus: Casual Modelling for Earth Science
-  - Supervisor: Dr.ZHU Qing (Research Scientist at Institute for Data Science)
+  - Supervisor: [Dr.ZHU Qing](https://bids.berkeley.edu/people/qing-zhu) (Research Scientist at Institute for Data Science)
   - Deployed a transfer entropy-based climate diagnostic tool for Pearl River Delta
 
 
 
-# 📝 Publications
+# 📝 Publication
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/urbanclip_www24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[When Urban Region Profiling Meets Large Language Models](https://arxiv.org/abs/2310.18340)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yibo Yan**, Haomin Wen, Siru Zhong, Wei Chen, Haodong Chen, Qingsong Wen, Roger Zimmermann, Yuxuan Liang
+- First-ever LLM-enhanced framework that integrates the knowledge of textual modality into urban imagery profiling.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+<!-- **Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- First-ever LLM-enhanced framework that integrates the knowledge of textual modality into urban imagery profiling.
 </div>
-</div>
+</div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
 - *2023,* Silver Medal, OTTO - Multi-Objective Recommender System, Kaggle Competition.
