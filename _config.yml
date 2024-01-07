@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "EricYan"
 description              : "Life is hard. Let's make something fun."
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "StupidBuluchacha/StupidBuluchacha.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Eric YAN"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/personal.png"
   bio              : "National University of Singapore"
   location         : "Singapore"
   employer         :
