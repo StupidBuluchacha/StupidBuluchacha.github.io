@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I obtained my master degree and bachelor degree from **[School of Computing](https://www.comp.nus.edu.sg/), National University of Singapore (NUS)** and **Hong Kong Baptist University (HKBU)**, respectively. I am currently conducting research at Hong Kong University of Science and Technology (Guangzhou), under the supervision of [Prof.LIANG Yuxuan](https://yuxuanliang.com/), assistant professor of DSA Thurst, Information Hub.
+I obtained my master degree and bachelor degree from ***[School of Computing](https://www.comp.nus.edu.sg/), National University of Singapore (NUS)*** and ***Hong Kong Baptist University (HKBU)***, respectively. I am currently conducting research at Hong Kong University of Science and Technology (Guangzhou), under the supervision of [Prof.LIANG Yuxuan](https://yuxuanliang.com/), assistant professor of DSA Thurst, Information Hub.
 
-Previously, I had extensive internship experience in both industry and academia, including **NLP Team, AI Lab, ByteDance** <img src='./images/tiktok.png' style='width: 6em;'> (supervised by Mr.WANG Yang and [Dr.LI Hang](https://scholar.google.com/citations?user=nTl5mSwAAAAJ\&hl=en\&oi=ao), director of ByteDance Research), **Reefknot Investment** (co-supervised by [Mr.Marc DRAGON](https://reefknotinvestments.com/team/marc-dragon/), managing director of Reefknot, and [Prof.CHIN Wei Ngan](https://www.comp.nus.edu.sg/~chinwn/), vice dean of SoC, NUS), and **University of California, Berkeley** (supervised by [Dr.ZHU Qing](https://bids.berkeley.edu/people/qing-zhu), research scientist at Lawrence Berkeleey National Laboratory).
+Previously, I had extensive internship experience in both industry and academia, including ***NLP Team, ByteDance AI Lab, ByteDance*** <img src='./images/tiktok.png' style='width: 6em;'> (supervised by Mr.WANG Yang and [Dr.LI Hang](https://scholar.google.com/citations?user=nTl5mSwAAAAJ\&hl=en\&oi=ao), director of ByteDance Research), ***Reefknot Investment*** (co-supervised by [Mr.Marc DRAGON](https://reefknotinvestments.com/team/marc-dragon/), managing director of Reefknot, and [Prof.CHIN Wei Ngan](https://www.comp.nus.edu.sg/~chinwn/), vice dean of SoC, NUS), and ***University of California, Berkeley*** (supervised by [Dr.ZHU Qing](https://bids.berkeley.edu/people/qing-zhu), research scientist at Lawrence Berkeleey National Laboratory).
 
 My research interests include **natural language processing, multimodal representation learning, data mining applications including urban computing and recommendation systems**. Look forward to any academic collaboration.
 
@@ -33,23 +33,23 @@ My research interests include **natural language processing, multimodal represen
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Education
-- *Sep 2021 - Jul 2023*, **National University of Singapore**.
-- *Sep 2017 - Jun 2021*, **Hong Kong Baptist University** (President's Honour Roll).
+- *Sep 2021 - Jul 2023*, ***National University of Singapore*** <img src='./images/NUS.png' style='width: 6em;'>.
+- *Sep 2017 - Jun 2021*, ***Hong Kong Baptist University*** <img src='./images/HKBU.png' style='width: 6em;'> (President's Honour Roll <img src='./images/certificate.png' style='width: 6em;'>).
 
 
 # 💻 Work Experience
-- *Nov 2022 - Jul 2023*, **AI Lab, ByteDance**, Singapore.
+- *Nov 2022 - Jul 2023*, ***AI Lab, ByteDance***, Singapore.
   - Focus: NLP (esp. user intent recognition & conversation modelling) and Recommendation Systems
   - Supervisors: Mr.WANG Yang (Leader of Conversation Team) & [Dr.LI Hang](https://scholar.google.com/citations?user=nTl5mSwAAAAJ\&hl=en\&oi=ao) (Director of ByteDance Research)
   - Successfully applied multiple models in real-life applications such as Tiktok Intelligence Customer Service and Douyin E-commerce Platform
 
-- *May 2022 - Sep 2022*, **Reefknot Investment**, Singapore.
-  - A joint venture between **Temasek** and **Kuehne+Nagel**
+- *May 2022 - Sep 2022*, ***Reefknot Investment***, Singapore.
+  - A joint venture between ***Temasek*** and ***Kuehne+Nagel***
   - Focus: Graph Analytics, NLP (esp. entity resolution), Federated Learning
   - Supervisors: [Mr.Marc DRAGON](https://reefknotinvestments.com/team/marc-dragon/) (Managing Director of Reefknot) and [Prof.CHIN Wei Ngan](https://www.comp.nus.edu.sg/~chinwn/) (Associate Professor and Vice Dean of SoC, NUS)
   - Comprehensive tech analysis for target deep-tech start-ups
 
-- *Jul 2020 - Sep 2020*, **UC Berkeley**, Remote.
+- *Jul 2020 - Sep 2020*, ***UC Berkeley***, Remote.
   - Focus: Casual Modelling for Earth Science
   - Supervisor: [Dr.ZHU Qing](https://bids.berkeley.edu/people/qing-zhu) (Research Scientist at Institute for Data Science)
   - Deployed a transfer entropy-based climate diagnostic tool for Pearl River Delta
@@ -66,6 +66,9 @@ My research interests include **natural language processing, multimodal represen
 **Yibo Yan**, Haomin Wen, Siru Zhong, Wei Chen, Haodong Chen, Qingsong Wen, Roger Zimmermann, Yuxuan Liang
 - First-ever LLM-enhanced framework that integrates the knowledge of textual modality into urban imagery profiling.
 
+</div>
+</div>
+
 <!-- **Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - First-ever LLM-enhanced framework that integrates the knowledge of textual modality into urban imagery profiling.
 </div>
@@ -73,10 +76,12 @@ My research interests include **natural language processing, multimodal represen
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+
+
 # 🎖 Honors and Awards
-- *2023,* Silver Medal, OTTO - Multi-Objective Recommender System, Kaggle Competition.
-- *2023,* Silver Medal, Stable Diffusion - Image to Prompts, Kaggle Competition.
-- *2021,* Best Undergraduate Thesis (Remote Sensing Track)
+- *2023,* Silver Medal <img src='./images/silver-medal.png' style='width: 6em;'>, OTTO - Multi-Objective Recommender System, Kaggle Competition.
+- *2023,* Silver Medal <img src='./images/silver-medal.png' style='width: 6em;'>, Stable Diffusion - Image to Prompts, Kaggle Competition.
+- *2021,* Best Undergraduate Thesis (Remote Sensing Track) <img src='./images/certificate.png' style='width: 6em;'>
 - *2019-2020, 2020-2021,* First-class Academic Award, HKBU
 - *2017-2018, 2018-2019,* Second-class Academic Award, HKBU
 
