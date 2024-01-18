@@ -40,7 +40,7 @@ My research interests include ***natural language processing <img src='./images/
 # 💻 Work Experience
 - *Nov 2022 - Jul 2023*, ***AI Lab, ByteDance***, Singapore. <img src='./images/tiktok.png' style='width: 6em;'>
   - **Focus**: NLP (esp. user intent recognition & conversation modelling) and Recommendation Systems
-  - **Supervisors**: Mr.WANG Yang (Leader of Conversation Team) and [Dr.LI Hang](https://www.linkedin.com/in/hang-li-84aa6314/?originalSubdomain=cn) (Director of ByteDance Research)
+  - **Supervisors**: Mr.WANG Yang (Leader of Conversation Team) and [Dr.LI Hang](https://www.linkedin.com/in/hang-li-84aa6314/?originalSubdomain=cn) (Director of ByteDance Research, Fellow of ACM/ACL/IEEE)
   - **Achievement**: Successfully designed and deployed multiple models in real-life applications such as Tiktok Intelligence Customer Service and Douyin E-commerce Platform
 
 - *May 2022 - Sep 2022*, ***Reefknot Investment***, Singapore. <img src='./images/reefknot.png' style='height: 1.5em;'>
@@ -57,13 +57,14 @@ My research interests include ***natural language processing <img src='./images/
 
 
 # 📝 Publication
+**Note**: * as Co-first Author; † as Corresponding Author
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/urbanclip_www24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [When Urban Region Profiling Meets Large Language Models](https://arxiv.org/abs/2310.18340)
 
-**<u>Yibo Yan</u>**, Haomin Wen, Siru Zhong, Wei Chen, Haodong Chen, Qingsong Wen, Roger Zimmermann, Yuxuan Liang
+**<u>Yibo Yan</u>**, Haomin Wen, Siru Zhong, Wei Chen, Haodong Chen, Qingsong Wen, Roger Zimmermann, Yuxuan Liang†
 - First-ever LLM-enhanced framework that integrates the knowledge of textual modality into urban imagery profiling.
 
 </div>
@@ -75,6 +76,18 @@ My research interests include ***natural language processing <img src='./images/
 </div> -->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/multimodal_survey_InformationFusion24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Learning for Multi-source and Multi-modal Data Fusion in Urban Computing: Taxonomy, Progress, and Prospects](https://arxiv.org/abs/2310.18340)
+
+Xingchen Zou*, **<u>Yibo Yan</u>***, Xixuan Hao, Yuehong Hu, Haomin Wen, Erdong Liu, Junbo Zhang, Yong Li, Yu Zheng, Yuxuan Liang†
+- First comprehensive survey that systematically reviews studies on deep learning-based multimodal and multi-source data fusion models in urban computing.
+
+</div>
+</div>
 
 
 
