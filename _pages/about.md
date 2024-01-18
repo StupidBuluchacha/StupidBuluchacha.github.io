@@ -78,7 +78,7 @@ My research interests include ***natural language processing <img src='./images/
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/multimodal_survey_InformationFusion24_backup.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/multimodal_survey_InformationFusion24_backup.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Learning for Multi-source and Multi-modal Data Fusion in Urban Computing: Taxonomy, Progress, and Prospects](https://arxiv.org/abs/2310.18340)
@@ -87,7 +87,7 @@ Xingchen Zou\*, **<u>Yibo Yan</u>**\*, Xixuan Hao, Yuehong Hu, Haomin Wen, Erdon
 - First comprehensive survey that systematically reviews studies on deep learning-based multimodal and multi-source data fusion models in urban computing.
 
 </div>
-</div>
+</div> -->
 
 
 
