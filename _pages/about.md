@@ -36,33 +36,13 @@ My research interests include ***natural language processing <img src='./images/
 - *Sep 2021 - Jul 2023*, ***National University of Singapore*** <img src='./images/NUS.png' style='height: 1.5em;'>.
 - *Sep 2017 - Jun 2021*, ***Hong Kong Baptist University*** <img src='./images/HKBU.png' style='width: 6em;'> (President's Honour Roll <img src='./images/certificate.png' style='height: 1.5em;'>).
 
-
-# 💻 Work Experience
-- *Nov 2022 - Jul 2023*, ***AI Lab, ByteDance***, Singapore. <img src='./images/tiktok.png' style='width: 6em;'>
-  - **Focus**: NLP (esp. user intent recognition & conversation modelling) and Recommendation Systems
-  - **Supervisors**: Mr.WANG Yang (Leader of Conversation Team) and [Dr.LI Hang](https://www.linkedin.com/in/hang-li-84aa6314/?originalSubdomain=cn) (Director of ByteDance Research, Fellow of ACM/ACL/IEEE)
-  - **Achievement**: Successfully designed and deployed multiple models in real-life applications such as Tiktok Intelligence Customer Service and Douyin E-commerce Platform
-
-- *May 2022 - Sep 2022*, ***Reefknot Investment***, Singapore. <img src='./images/reefknot.png' style='height: 1.5em;'>
-  - A joint venture between ***Temasek*** <img src='./images/temasek.png' style='height: 1.5em;'> and ***Kuehne+Nagel*** <img src='./images/kuehne_nagel.png' style='height: 1.5em;'>
-  - **Focus**: Graph Analytics, NLP (esp. entity resolution), Federated Learning
-  - **Supervisors**: [Mr.Marc DRAGON](https://reefknotinvestments.com/team/marc-dragon/) (Managing Director of Reefknot) and [Prof.CHIN Wei Ngan](https://www.comp.nus.edu.sg/~chinwn/) (Associate Professor and Vice Dean of SoC, NUS)
-  - **Achievement**: Comprehensive tech analysis for target deep-tech start-ups
-
-- *Jul 2020 - Sep 2020*, ***UC Berkeley***, Remote. <img src='./images/UCB.png' style='height: 1.5em;'>
-  - **Focus**: Casual Modelling for Earth Science
-  - **Supervisor**: [Dr.ZHU Qing](https://bids.berkeley.edu/people/qing-zhu) (Research Scientist at Institute for Data Science)
-  - **Achievement**: Developed a transfer entropy-based climate diagnostic tool for Pearl River Delta
-
-
-
 # 📝 Publication
 **Note**: \* as Co-first Author; † as Corresponding Author
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/urbanclip_www24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[When Urban Region Profiling Meets Large Language Models](https://arxiv.org/abs/2310.18340)
+[UrbanCLIP: Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web](https://arxiv.org/abs/2310.18340)
 
 **<u>Yibo Yan</u>**, Haomin Wen, Siru Zhong, Wei Chen, Haodong Chen, Qingsong Wen, Roger Zimmermann, Yuxuan Liang†
 
@@ -91,6 +71,29 @@ Xingchen Zou\*, **<u>Yibo Yan</u>**\*, Xixuan Hao, Yuehong Hu, Haomin Wen, Erdon
 
 </div>
 </div> -->
+
+
+
+# 💻 Work Experience
+- *Nov 2022 - Jul 2023*, ***AI Lab, ByteDance***, Singapore. <img src='./images/tiktok.png' style='width: 6em;'>
+  - **Focus**: NLP (esp. user intent recognition & conversation modelling) and Recommendation Systems
+  - **Supervisors**: Mr.WANG Yang (Leader of Conversation Team) and [Dr.LI Hang](https://www.linkedin.com/in/hang-li-84aa6314/?originalSubdomain=cn) (Director of ByteDance Research, Fellow of ACM/ACL/IEEE)
+  - **Achievement**: Successfully designed and deployed multiple models in real-life applications such as Tiktok Intelligence Customer Service and Douyin E-commerce Platform
+
+- *May 2022 - Sep 2022*, ***Reefknot Investment***, Singapore. <img src='./images/reefknot.png' style='height: 1.5em;'>
+  - A joint venture between ***Temasek*** <img src='./images/temasek.png' style='height: 1.5em;'> and ***Kuehne+Nagel*** <img src='./images/kuehne_nagel.png' style='height: 1.5em;'>
+  - **Focus**: Graph Analytics, NLP (esp. entity resolution), Federated Learning
+  - **Supervisors**: [Mr.Marc DRAGON](https://reefknotinvestments.com/team/marc-dragon/) (Managing Director of Reefknot) and [Prof.CHIN Wei Ngan](https://www.comp.nus.edu.sg/~chinwn/) (Associate Professor and Vice Dean of SoC, NUS)
+  - **Achievement**: Comprehensive tech analysis for target deep-tech start-ups
+
+- *Jul 2020 - Sep 2020*, ***UC Berkeley***, Remote. <img src='./images/UCB.png' style='height: 1.5em;'>
+  - **Focus**: Casual Modelling for Earth Science
+  - **Supervisor**: [Dr.ZHU Qing](https://bids.berkeley.edu/people/qing-zhu) (Research Scientist at Institute for Data Science)
+  - **Achievement**: Developed a transfer entropy-based climate diagnostic tool for Pearl River Delta
+
+
+
+
 
 
 
