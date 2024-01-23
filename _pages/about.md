@@ -59,12 +59,15 @@ My research interests include ***natural language processing <img src='./images/
 # 📝 Publication
 **Note**: \* as Co-first Author; † as Corresponding Author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/urbanclip_www24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/urbanclip_www24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [When Urban Region Profiling Meets Large Language Models](https://arxiv.org/abs/2310.18340)
 
 **<u>Yibo Yan</u>**, Haomin Wen, Siru Zhong, Wei Chen, Haodong Chen, Qingsong Wen, Roger Zimmermann, Yuxuan Liang†
+
+The World Wide Web Conference 2024, Singapore (**WWW'24**)
+
 - First-ever LLM-enhanced framework that integrates the knowledge of textual modality into urban imagery profiling.
 
 </div>
