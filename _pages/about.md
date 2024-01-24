@@ -46,7 +46,7 @@ My research interests include ***natural language processing <img src='./images/
 
 **<u>Yibo Yan</u>**, Haomin Wen, Siru Zhong, Wei Chen, Haodong Chen, Qingsong Wen, Roger Zimmermann, Yuxuan Liang†
 
-The World Wide Web Conference 2024, Singapore (**WWW'24**)
+The International World Wide Web Conference 2024, Singapore (**WWW'24**)
 
 - First-ever LLM-enhanced framework that integrates the knowledge of textual modality into urban imagery profiling.
 
@@ -64,7 +64,7 @@ The World Wide Web Conference 2024, Singapore (**WWW'24**)
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/multimodal_survey_InformationFusion24_backup.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Learning for Multi-source and Multi-modal Data Fusion in Urban Computing: Taxonomy, Progress, and Prospects](https://arxiv.org/abs/2310.18340)
+[Deep Learning for Cross-Domain Data Fusion in Urban Computing: Taxonomy, Progress, and Prospects](https://arxiv.org/abs/2310.18340)
 
 Xingchen Zou\*, **<u>Yibo Yan</u>**\*, Xixuan Hao, Yuehong Hu, Haomin Wen, Erdong Liu, Junbo Zhang, Yong Li, Yu Zheng, Yuxuan Liang†
 - First comprehensive survey that systematically reviews studies on deep learning-based multimodal and multi-source data fusion models in urban computing.
@@ -76,7 +76,7 @@ Xingchen Zou\*, **<u>Yibo Yan</u>**\*, Xixuan Hao, Yuehong Hu, Haomin Wen, Erdon
 
 # 💻 Work Experience
 - *Nov 2022 - Jul 2023*, ***AI Lab, ByteDance***, Singapore. <img src='./images/tiktok.png' style='width: 6em;'>
-  - **Focus**: NLP (esp. user intent recognition & conversation modelling) and Recommendation Systems
+  - **Focus**: NLP (esp. user intent recognition \& conversation modelling) and Recommendation Systems
   - **Supervisors**: Mr.WANG Yang (Leader of Conversation Team) and [Dr.LI Hang](https://www.linkedin.com/in/hang-li-84aa6314/?originalSubdomain=cn) (Director of ByteDance Research, Fellow of ACM/ACL/IEEE)
   - **Achievement**: Successfully designed and deployed multiple models in real-life applications such as Tiktok Intelligence Customer Service and Douyin E-commerce Platform
 
