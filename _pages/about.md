@@ -76,7 +76,7 @@ Xingchen Zou\*, **<u>Yibo Yan</u>**\*, Xixuan Hao, Yuehong Hu, Haomin Wen, Erdon
 
 # 💻 Work Experience
 - *Nov 2022 - Jul 2023*, ***AI Lab, ByteDance***, Singapore. <img src='./images/tiktok.png' style='width: 6em;'>
-  - **Focus**: NLP (esp. user intent recognition \& conversation modelling) and Recommendation Systems
+  - **Focus**: NLP (esp. user intent recognition and conversation modelling) and Recommendation Systems
   - **Supervisors**: Mr.WANG Yang (Leader of Conversation Team) and [Dr.LI Hang](https://www.linkedin.com/in/hang-li-84aa6314/?originalSubdomain=cn) (Director of ByteDance Research, Fellow of ACM/ACL/IEEE)
   - **Achievement**: Successfully designed and deployed multiple models in real-life applications such as Tiktok Intelligence Customer Service and Douyin E-commerce Platform
 
