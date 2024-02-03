@@ -46,9 +46,9 @@ My research interests include ***natural language processing <img src='./images/
 
 **<u>Yibo Yan</u>**, Haomin Wen, Siru Zhong, Wei Chen, Haodong Chen, Qingsong Wen, Roger Zimmermann, Yuxuan Liang†
 
-The International World Wide Web Conference 2024, Singapore (**WWW'24**)
-
 - First-ever LLM-enhanced framework that integrates the knowledge of textual modality into urban imagery profiling.
+
+The International World Wide Web Conference 2024, Singapore (**WWW'24**)
 
 </div>
 </div>
