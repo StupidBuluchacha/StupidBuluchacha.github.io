@@ -48,7 +48,8 @@ My research interests include ***natural language processing <img src='./images/
 
 - First-ever LLM-enhanced framework that integrates the knowledge of textual modality into urban imagery profiling.
 
-The International World Wide Web Conference 2024, Singapore (**WWW'24**)
+The International World Wide Web Conference 2024, Singapore (**WWW'24**) **<span style="color:red;">Oral Presentation</span>**
+ <img src='./images/flames.png' style='height: 1.5em;'>
 
 </div>
 </div>
