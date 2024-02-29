@@ -49,6 +49,7 @@ My research interests include ***natural language processing <img src='./images/
 - First-ever LLM-enhanced framework that integrates the knowledge of textual modality into urban imagery profiling.
 
 The International World Wide Web Conference 2024, Singapore (**WWW'24**)
+
 <img src='./images/flames.png' style='height: 1.5em;'> **<span style="color:red;">Oral Presentation</span>**
 
 </div>
@@ -93,10 +94,10 @@ Under Review
 
 
 # 💻 Work Experience
-- *Feb 2024 - Now*, ***LLM Group, Institute for Advanced Algorithms Research***, Shanghai/Remote. <img src='./images/IAAR.png' style='width: 6em;'>
+<!-- - *Feb 2024 - Now*, ***LLM Group, Institute for Advanced Algorithms Research***, Shanghai/Remote. <img src='./images/IAAR.png' style='width: 6em;'>
   - **Focus**: LLM Hallucination Mitigation
   - **Supervisors**: Dr.Zhiyu LI (Mentor of LLM Team) and [Dr.Feiyu XIONG](https://scholar.google.com/citations?user=GOKgLdQAAAAJ&hl=en) (Director of LLM Group)
-  - **Achievement**: ongoing project
+  - **Achievement**: ongoing project -->
 
 - *Nov 2022 - Jul 2023*, ***AI Lab, ByteDance***, Singapore. <img src='./images/tiktok.png' style='width: 6em;'>
   - **Focus**: NLP (esp. user intent recognition and conversation modelling) and Recommendation Systems
