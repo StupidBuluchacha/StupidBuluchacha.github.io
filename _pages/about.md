@@ -80,7 +80,7 @@ Under Review
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/urbanvlp_kdd24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-UrbanVLP: A Multi-Granularity Vision-Language Pre-Trained Model for Urban Indicator Prediction
+[UrbanVLP: A Multi-Granularity Vision-Language Pre-Trained Model for Urban Indicator Prediction](https://arxiv.org/abs/2403.16831)
 
 Xixuan Hao, Wei Chen, **<u>Yibo Yan</u>**, Siru Zhong, Kun Wang, Qingsong Wen, Yuxuan Liang†
 
