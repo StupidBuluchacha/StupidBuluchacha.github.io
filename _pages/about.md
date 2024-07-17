@@ -91,6 +91,20 @@ Under Review
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/mmneuron_emnlp24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MMNeuron: Discovering Neuron-Level Domain-Specific Interpretation in Multimodal Large Language Model](https://arxiv.org/abs/2406.11193)
+
+Jiahao Huo, **<u>Yibo Yan</u>**, Boren Hu, Yutao Yue, Xuming Hu†
+
+- Investigation of the distribution of domain-specific neurons and the mechanism of how MLLMs process features from diverse domains.
+
+Under Review
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/urbancross_mm24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
