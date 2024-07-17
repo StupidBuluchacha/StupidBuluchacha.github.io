@@ -95,7 +95,7 @@ Under Review
 
 
 # 💻 Work Experience
-- *Feb 2024 - May 2024*, ***LLM Group, Institute for Advanced Algorithms Research, Shanghai***, Remote. <img src='./images/IAAR3.png' style='width: 6em;'>
+- *Feb 2024 - May 2024*, ***LLM Group, Institute for Advanced Algorithms Research, Shanghai***, Remote. <img src='./images/IAAR.png' style='width: 6em;'>
   - **Focus**: LLM Hallucination Mitigation
   - **Supervisors**: [Dr.Zhiyu LI](https://openreview.net/profile?id=~Zhiyu_li2) (Principal Researcher of LLM Team) and [Dr.Feiyu XIONG](https://scholar.google.com/citations?user=GOKgLdQAAAAJ&hl=en) (Director of LLM Group)
   - **Achievement**: Mitigated the entity-level hallucination in real-life news corpora from Xinhua News Agency
