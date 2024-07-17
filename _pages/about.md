@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I obtained my master degree and bachelor degree from ***[School of Computing](https://www.comp.nus.edu.sg/), National University of Singapore (NUS)*** and ***Hong Kong Baptist University (HKBU)***, respectively. I am currently pursuing my PhD degree at ***Hong Kong University of Science and Technology*** under the supervision of [Prof.Xuming HU](https://xuminghu.github.io/). I am also interning at AI Research, Squirrel AI now, supervised by [Dr.Qingsong WEN](https://sites.google.com/site/qingsongwen8/home).
+Hi, I obtained my master degree and bachelor degree from ***[School of Computing](https://www.comp.nus.edu.sg/), National University of Singapore (NUS)*** and ***Hong Kong Baptist University (HKBU)***, respectively. I am currently pursuing my PhD degree at ***Hong Kong University of Science and Technology*** under the supervision of [Prof.Xuming HU](https://xuminghu.github.io/). I am also interning at ***AI Research, Squirrel AI*** now, supervised by [Dr.Qingsong WEN](https://sites.google.com/site/qingsongwen8/home).
 
 Previously, I had extensive internship experience in both industry and academia, including ***NLP Team, ByteDance AI Lab*** (supervised by Mr.Yang WANG and [Dr.Hang LI](https://www.linkedin.com/in/hang-li-84aa6314/?originalSubdomain=cn), director of ByteDance Research), ***LLM Group, Institute for Advanced Algorithms Research*** (co-supervised by [Dr.Zhiyu LI](https://openreview.net/profile?id=~Zhiyu_li2), [Dr.Feiyu XIONG](https://scholar.google.com/citations?user=GOKgLdQAAAAJ&hl=en), and [Prof.Weinan E](https://web.math.princeton.edu/~weinan/)), ***Reefknot Investment*** (co-supervised by [Mr.Marc DRAGON](https://reefknotinvestments.com/team/marc-dragon/), managing director of Reefknot, and [Prof.Wei Ngan CHIN](https://www.comp.nus.edu.sg/~chinwn/), vice dean of SoC, NUS), and ***University of California, Berkeley*** (supervised by [Dr.Qing ZHU](https://bids.berkeley.edu/people/qing-zhu), research scientist at Lawrence Berkeleey National Laboratory). I also conducted research at CityMind Lab, HKUST(GZ) (led by [Prof.Yuxuan LIANG](https://yuxuanliang.com/)) before.
 
@@ -33,7 +33,7 @@ My research interests include ***natural language processing <img src='./images/
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Education
-- *Now*, PhD, ***Hong Kong University of Science and Technology*** <img src='./images/HKUST_cwb.png' style='height: 3.5em;'>
+- *Now*, PhD, ***Hong Kong University of Science and Technology*** <img src='./images/HKUST_cwb.png' style='height: 3.0em;'>
 - *2021 - 2023*, Master, ***National University of Singapore*** <img src='./images/NUS.png' style='height: 1.5em;'>
 - *2017 - 2021*, Undergraduate, ***Hong Kong Baptist University*** <img src='./images/HKBU.png' style='width: 6em;'> (President's Honour Roll <img src='./images/certificate.png' style='height: 1.5em;'>)
 
@@ -63,6 +63,19 @@ The International World Wide Web Conference 2024, Singapore (**WWW'24**)
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2024</div><img src='images/georeasoner_cikm24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GeoReasoner: Reasoning On Geospatially Grounded Context For Natural Language Understanding](https://arxiv.org/abs/2402.19348)
+
+**<u>Yibo Yan</u>**, Joey Lee†
+
+- A pipeline integrating linguistic and geospatial information, showcasing the advantages of an LLM-assisted workflow over conventional methods in geo-reasoning tasks.
+
+33rd ACM International Conference on Information and Knowledge Management, Idaho, USA (**CIKM'24**)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/multimodal_survey_InformationFusion24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
