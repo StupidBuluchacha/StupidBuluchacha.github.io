@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I obtained my master degree and bachelor degree from ***[School of Computing](https://www.comp.nus.edu.sg/), National University of Singapore (NUS)*** and ***Hong Kong Baptist University (HKBU)***, respectively. I am currently pursuing my PhD degree at ***Hong Kong University of Science and Technology*** under the supervision of [Prof.Xuming HU](https://xuminghu.github.io/). I also coorperate with ***LLM Group, Institute for Advanced Algorithms Research*** (led by [Dr.Feiyu XIONG](https://scholar.google.com/citations?user=GOKgLdQAAAAJ&hl=en) and [Prof.Weinan E](https://web.math.princeton.edu/~weinan/)). I conducted research at CityMind Lab, HKUST(GZ) (led by [Prof.Yuxuan LIANG](https://yuxuanliang.com/)) before.
+Hi, I obtained my master degree and bachelor degree from ***[School of Computing](https://www.comp.nus.edu.sg/), National University of Singapore (NUS)*** and ***Hong Kong Baptist University (HKBU)***, respectively. I am currently pursuing my PhD degree at ***Hong Kong University of Science and Technology*** under the supervision of [Prof.Xuming HU](https://xuminghu.github.io/).
 
-Previously, I had extensive internship experience in both industry and academia, including ***NLP Team, ByteDance AI Lab*** (supervised by Mr.Yang WANG and [Dr.Hang LI](https://www.linkedin.com/in/hang-li-84aa6314/?originalSubdomain=cn), director of ByteDance Research), ***Reefknot Investment*** (co-supervised by [Mr.Marc DRAGON](https://reefknotinvestments.com/team/marc-dragon/), managing director of Reefknot, and [Prof.Wei Ngan CHIN](https://www.comp.nus.edu.sg/~chinwn/), vice dean of SoC, NUS), and ***University of California, Berkeley*** (supervised by [Dr.Qing ZHU](https://bids.berkeley.edu/people/qing-zhu), research scientist at Lawrence Berkeleey National Laboratory).
+Previously, I had extensive internship experience in both industry and academia, including ***NLP Team, ByteDance AI Lab*** (supervised by Mr.Yang WANG and [Dr.Hang LI](https://www.linkedin.com/in/hang-li-84aa6314/?originalSubdomain=cn), director of ByteDance Research), ***LLM Group, Institute for Advanced Algorithms Research*** (co-supervised by [Dr.Zhiyu LI](https://openreview.net/profile?id=~Zhiyu_li2), [Dr.Feiyu XIONG](https://scholar.google.com/citations?user=GOKgLdQAAAAJ&hl=en), and [Prof.Weinan E](https://web.math.princeton.edu/~weinan/)), ***Reefknot Investment*** (co-supervised by [Mr.Marc DRAGON](https://reefknotinvestments.com/team/marc-dragon/), managing director of Reefknot, and [Prof.Wei Ngan CHIN](https://www.comp.nus.edu.sg/~chinwn/), vice dean of SoC, NUS), and ***University of California, Berkeley*** (supervised by [Dr.Qing ZHU](https://bids.berkeley.edu/people/qing-zhu), research scientist at Lawrence Berkeleey National Laboratory). I also conducted research at CityMind Lab, HKUST(GZ) (led by [Prof.Yuxuan LIANG](https://yuxuanliang.com/)) before.
 
 My research interests include ***natural language processing <img src='./images/text-mining.png' style='height: 1.5em;'>, multimodal representation learning <img src='./images/multimedia.png' style='height: 1.5em;'>, data mining applications including urban computing <img src='./images/infrastructure.png' style='height: 1.5em;'> and recommendation systems <img src='./images/rating.png' style='height: 1.5em;'>***. Look forward to any academic collaboration.
 
@@ -95,9 +95,9 @@ Under Review
 
 
 # 💻 Work Experience
-- *Feb 2024 - May 2024*, ***LLM Group, Institute for Advanced Algorithms Research, Shanghai***, Remote. <img src='./images/IAAR.png' style='width: 6em;'>
+- *Feb 2024 - May 2024*, ***LLM Group, Institute for Advanced Algorithms Research, Shanghai***, Remote. <img src='./images/IAAR1.png' style='width: 6em;'>
   - **Focus**: LLM Hallucination Mitigation
-  - **Supervisors**: [Dr.Zhiyu LI](https://openreview.net/profile?id=~Zhiyu_li2) (Mentor of LLM Team) and [Dr.Feiyu XIONG](https://scholar.google.com/citations?user=GOKgLdQAAAAJ&hl=en) (Director of LLM Group)
+  - **Supervisors**: [Dr.Zhiyu LI](https://openreview.net/profile?id=~Zhiyu_li2) (Principal Researcher of LLM Team) and [Dr.Feiyu XIONG](https://scholar.google.com/citations?user=GOKgLdQAAAAJ&hl=en) (Director of LLM Group)
   - **Achievement**: Mitigated the entity-level hallucination in real-life news corpora from Xinhua News Agency
 
 - *Nov 2022 - Jul 2023*, ***AI Lab, ByteDance***, Singapore. <img src='./images/tiktok.png' style='width: 6em;'>
