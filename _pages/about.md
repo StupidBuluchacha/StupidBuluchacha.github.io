@@ -91,6 +91,20 @@ Under Review
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/urbancross_mm24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[UrbanCross: Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation](https://arxiv.org/abs/2404.14241)
+
+Siru Zhong, Xixuan Hao, **<u>Yibo Yan</u>**, Ying Zhang, Yangqiu Song, Yuxuan Liang†
+
+- First cross-domain framework that integrates the power of LMM and SAM into satellite image-text retrieval.
+
+32nd ACM Multimedia Conference, Melbourne, Australia (**ACM MM'24**)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/urbanvlp_kdd24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -104,6 +118,7 @@ Under Review
 
 </div>
 </div>
+
 
 
 
