@@ -37,7 +37,7 @@ My research interests include ***natural language processing <img src='./images/
 - *2021 - 2023*, Master, ***National University of Singapore*** <img src='./images/NUS.png' style='height: 1.5em;'>
 - *2017 - 2021*, Undergraduate, ***Hong Kong Baptist University*** <img src='./images/HKBU.png' style='width: 6em;'> (President's Honour Roll <img src='./images/certificate.png' style='height: 1.5em;'>)
 
-# 📝 Publications
+# 📝 Selected Publications
 **Note**: \* as Co-first Author; † as Corresponding Author
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/urbanclip_www24.png' alt="sym" width="100%"></div></div>
