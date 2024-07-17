@@ -33,9 +33,9 @@ My research interests include ***natural language processing <img src='./images/
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Education
-- *Now*, PhD, ***Hong Kong University of Science and Technology*** <img src='./images/HKUST_cwb.png' style='height: 3.5em;'>.
-- *Sep 2021 - Jul 2023*, Master, ***National University of Singapore*** <img src='./images/NUS.png' style='height: 1.5em;'>.
-- *Sep 2017 - Jun 2021*, Undergraduate, ***Hong Kong Baptist University*** <img src='./images/HKBU.png' style='width: 6em;'> (President's Honour Roll <img src='./images/certificate.png' style='height: 1.5em;'>).
+- *Now*, PhD, ***Hong Kong University of Science and Technology*** <img src='./images/HKUST_cwb.png' style='height: 3.5em;'>
+- *Sep 2021 - Jul 2023*, Master, ***National University of Singapore*** <img src='./images/NUS.png' style='height: 1.5em;'>
+- *Sep 2017 - Jun 2021*, Undergraduate, ***Hong Kong Baptist University*** <img src='./images/HKBU.png' style='width: 6em;'> (President's Honour Roll <img src='./images/certificate.png' style='height: 1.5em;'>)
 
 # 📝 Publications
 **Note**: \* as Co-first Author; † as Corresponding Author
@@ -95,10 +95,10 @@ Under Review
 
 
 # 💻 Work Experience
-<!-- - *Feb 2024 - Now*, ***LLM Group, Institute for Advanced Algorithms Research***, Shanghai/Remote. <img src='./images/IAAR.png' style='width: 6em;'>
+- *Feb 2024 - May 2024*, ***LLM Group, Institute for Advanced Algorithms Research, Shanghai***, Remote. <img src='./images/IAAR.png' style='width: 6em;'>
   - **Focus**: LLM Hallucination Mitigation
-  - **Supervisors**: Dr.Zhiyu LI (Mentor of LLM Team) and [Dr.Feiyu XIONG](https://scholar.google.com/citations?user=GOKgLdQAAAAJ&hl=en) (Director of LLM Group)
-  - **Achievement**: ongoing project -->
+  - **Supervisors**: [Dr.Zhiyu LI](https://openreview.net/profile?id=~Zhiyu_li2) (Mentor of LLM Team) and [Dr.Feiyu XIONG](https://scholar.google.com/citations?user=GOKgLdQAAAAJ&hl=en) (Director of LLM Group)
+  - **Achievement**: Mitigated the entity-level hallucination in real-life news corpora from Xinhua News Agency
 
 - *Nov 2022 - Jul 2023*, ***AI Lab, ByteDance***, Singapore. <img src='./images/tiktok.png' style='width: 6em;'>
   - **Focus**: NLP (esp. user intent recognition and conversation modelling) and Recommendation Systems
