@@ -34,8 +34,8 @@ My research interests include ***natural language processing <img src='./images/
 
 # 📖 Education
 - *Now*, PhD, ***Hong Kong University of Science and Technology*** <img src='./images/HKUST_cwb.png' style='height: 3.5em;'>
-- *Sep 2021 - Jul 2023*, Master, ***National University of Singapore*** <img src='./images/NUS.png' style='height: 1.5em;'>
-- *Sep 2017 - Jun 2021*, Undergraduate, ***Hong Kong Baptist University*** <img src='./images/HKBU.png' style='width: 6em;'> (President's Honour Roll <img src='./images/certificate.png' style='height: 1.5em;'>)
+- *2021 - 2023*, Master, ***National University of Singapore*** <img src='./images/NUS.png' style='height: 1.5em;'>
+- *2017 - 2021*, Undergraduate, ***Hong Kong Baptist University*** <img src='./images/HKBU.png' style='width: 6em;'> (President's Honour Roll <img src='./images/certificate.png' style='height: 1.5em;'>)
 
 # 📝 Publications
 **Note**: \* as Co-first Author; † as Corresponding Author
