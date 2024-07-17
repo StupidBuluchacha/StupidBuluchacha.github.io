@@ -95,12 +95,12 @@ Under Review
 
 
 # 💻 Work Experience
-- *Jun 2024 - Now*, ***AI Research, Squirrel AI***, Remote. <img src='./images/squirrel.png' style='height: 1.5em;'>
+- *Jun 2024 - Now*, ***AI Research, Squirrel AI***, Remote. <img src='./images/squirrel.png' style='height: 1.3em;'>
   - **Focus**: Multimodal LLM for Education
   - **Supervisors**: [Dr.Shen WANG](https://www.deep-mining.com/) (Principal Researcher of AI Research) and [Dr.Qingsong WEN](https://sites.google.com/site/qingsongwen8/home) (Head of AI Research & Chief Scientist)
   - **Achievement**: Ongoing Project
 
-- *Feb 2024 - May 2024*, ***LLM Group, Institute for Advanced Algorithms Research, Shanghai***, Remote. <img src='./images/IAAR.png' style='height: 1.5em;'>
+- *Feb 2024 - May 2024*, ***LLM Group, Institute for Advanced Algorithms Research, Shanghai***, Remote. <img src='./images/IAAR.png' style='height: 1.3em;'>
   - **Focus**: LLM Hallucination Mitigation
   - **Supervisors**: [Dr.Zhiyu LI](https://openreview.net/profile?id=~Zhiyu_li2) (Principal Researcher of LLM Team) and [Dr.Feiyu XIONG](https://scholar.google.com/citations?user=GOKgLdQAAAAJ&hl=en) (Director of LLM Group)
   - **Achievement**: Mitigated the entity-level hallucination in real-life news corpora from Xinhua News Agency
