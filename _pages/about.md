@@ -77,7 +77,7 @@ The International World Wide Web Conference 2024, Singapore (**WWW'24**)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS 2024</div><img src='images/multimodal_survey_InformationFusion24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">InfoFusion 2024</div><img src='images/multimodal_survey_InformationFusion24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Learning for Cross-Domain Data Fusion in Urban Computing: Taxonomy, Advances, and Outlook](https://arxiv.org/abs/2402.19348)
@@ -86,7 +86,7 @@ Xingchen Zou\*, **<u>Yibo Yan</u>**\*, Xixuan Hao, Yuehong Hu, Haomin Wen, Erdon
 
 - First comprehensive survey that systematically reviews studies on deep learning-based multimodal and multi-source data fusion models in urban computing.
 
-Information Fusion (**<span style="color:red;">IF=15</span>**)
+Information Fusion Journal (**<span style="color:red;">IF=15</span>**)
 
 </div>
 </div>
@@ -110,7 +110,7 @@ Under Review
 
 [Reefknot: A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models](https://arxiv.org/abs/2408.09429)
 
-Kening Zheng, Junkai Chen, Yibo Yan, Xin Zou, Xuming Hu†
+Kening Zheng, Junkai Chen, **<u>Yibo Yan</u>**, Xin Zou, Xuming Hu†
 
 - A comprehensive benchmark specifically targeting relation hallucinations, consisting of over 20k samples derived from real-world scenarios.
 
