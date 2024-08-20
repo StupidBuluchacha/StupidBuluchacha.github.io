@@ -105,6 +105,20 @@ Under Review
 </div>
 </div>
 
+[Reefknot: A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models](https://arxiv.org/abs/2408.09429)
+
+Kening Zheng, Junkai Chen, Yibo Yan, Xin Zou, Xuming Hu†
+
+- A comprehensive benchmark specifically targeting relation hallucinations, consisting of over 20k samples derived from real-world scenarios.
+
+Under Review
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/reefknot_aaai25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/urbancross_mm24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
