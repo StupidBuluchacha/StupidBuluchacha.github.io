@@ -91,7 +91,7 @@ Information Fusion Journal (**<span style="color:red;">IF=15</span>**)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/mmneuron_emnlp24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/mmneuron_emnlp24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MMNeuron: Discovering Neuron-Level Domain-Specific Interpretation in Multimodal Large Language Model](https://arxiv.org/abs/2406.11193)
@@ -100,7 +100,7 @@ Jiahao Huo, **<u>Yibo Yan</u>**, Boren Hu, Yutao Yue, Xuming Hu†
 
 - Investigation of the distribution of domain-specific neurons and the mechanism of how MLLMs process features from diverse domains.
 
-Under Review
+Conference on Empirical Methods in Natural Language Processing 2024, USA (**EMNLP'24**)
 
 </div>
 </div>
@@ -110,7 +110,7 @@ Under Review
 
 [Reefknot: A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models](https://arxiv.org/abs/2408.09429)
 
-Kening Zheng, Junkai Chen, **<u>Yibo Yan</u>**, Xin Zou, Xuming Hu†
+Kening Zheng\*, Junkai Chen\*, **<u>Yibo Yan</u>**, Xin Zou, Xuming Hu†
 
 - A comprehensive benchmark specifically targeting relation hallucinations, consisting of over 20k samples derived from real-world scenarios.
 
