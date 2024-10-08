@@ -80,7 +80,7 @@ Under Review
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2024</div><img src='images/georeasoner_cikm24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GeoReasoner: Reasoning On Geospatially Grounded Context For Natural Language Understanding](https://arxiv.org/abs/2402.19348)
+[GeoReasoner: Reasoning On Geospatially Grounded Context For Natural Language Understanding](https://arxiv.org/abs/2408.11366)
 
 **<u>Yibo Yan</u>**, Joey Lee†
 
@@ -127,6 +127,20 @@ Conference on Empirical Methods in Natural Language Processing 2024, USA (**EMNL
 Kening Zheng\*, Junkai Chen\*, **<u>Yibo Yan</u>**, Xin Zou, Xuming Hu†
 
 - A comprehensive benchmark specifically targeting relation hallucinations, consisting of over 20k samples derived from real-world scenarios.
+
+Under Review
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/memvr_iclr25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models](https://arxiv.org/abs/2410.03577)
+
+Xin Zou\*, Yizhou Wang\*, **<u>Yibo Yan</u>**, Sirui Huang, Kening Zheng, Junkai Chen, Chang Tang, Xuming Hu†
+
+- A novel hallucination mitigation paradigm that without the need for external knowledge retrieval or additional fine-tuning.
 
 Under Review
 
