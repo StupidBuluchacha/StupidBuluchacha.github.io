@@ -88,6 +88,8 @@ Under Review
 
 33rd ACM International Conference on Information and Knowledge Management, Idaho, USA (**CIKM'24**)
 
+<img src='./images/flames.png' style='height: 1.5em;'> **<span style="color:red;">Best Short Paper Award</span>**
+
 </div>
 </div>
 
