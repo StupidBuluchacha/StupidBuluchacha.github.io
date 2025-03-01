@@ -63,20 +63,6 @@ The International World Wide Web Conference 2024, Singapore (**WWW'24**)
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/errorradar_icml25.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[ErrorRadar: Benchmarking Complex Mathematical Reasoning of Multimodal Large Language Models Via Error Detection](https://arxiv.org/abs/2410.04509)
-
-**<u>Yibo Yan</u>**, Shen Wang, Jiahao Huo, Hang Li, Boyan Li, Jiamin Su, Xiong Gao, Yi-Fan Zhang, Tianlong Xu, Zhendong Chu, Aoxiao Zhong, Kun Wang, Hui Xiong, Philip S. Yu, Xuming Hu†, Qingsong Wen†
-
-- First benchmark designed to assess MLLMs' complex reasoning capabilities in multimodal error detection.
-
-Under Review
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2024</div><img src='images/georeasoner_cikm24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -92,6 +78,50 @@ Under Review
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/errorradar_icml25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ErrorRadar: Benchmarking Complex Mathematical Reasoning of Multimodal Large Language Models Via Error Detection](https://arxiv.org/abs/2410.04509)
+
+**<u>Yibo Yan</u>**, Shen Wang, Jiahao Huo, Hang Li, Boyan Li, Jiamin Su, Xiong Gao, Yi-Fan Zhang, Tianlong Xu, Zhendong Chu, Aoxiao Zhong, Kun Wang, Hui Xiong, Philip S. Yu, Xuming Hu†, Qingsong Wen†
+
+- First benchmark designed to assess MLLMs' complex reasoning capabilities in multimodal error detection.
+
+Under Review
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/math_mllm_survey_acl25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Survey of Mathematical Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method & Challenges](https://arxiv.org/abs/2412.11936)
+
+**<u>Yibo Yan</u>**, Jiamin Su, Jianxiang He, Fangteng Fu, Xu Zheng, Yuanhuiyi Lyu, Kun Wang, Shen Wang, Qingsong Wen, Xuming Hu†
+
+-  First comprehensive analysis of mutlimodal mathematical reasoning in the era of MLLMs.
+
+Under Review
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/mllm4sci_position_icml25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Position: Multimodal Large Language Models Can Significantly Advance Scientific Reasoning](https://arxiv.org/abs/2502.02871)
+
+**<u>Yibo Yan</u>**, Shen Wang, Jiahao Huo, Jingheng Ye, Zhendong Chu, Xuming Hu†, Philip S. Yu, Carla Gomes, Bart Selman, Qingsong Wen†
+
+-  This position paper argues that MLLMs can significantly advance scientific reasoning across disciplines such as mathematics, physics, chemistry, and biology.
+
+Under Review
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">InfoFusion 2024</div><img src='images/multimodal_survey_InformationFusion24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -214,6 +244,8 @@ Under Review
 
 
 # 🎖 Honors and Awards
+- *2024-2025,* Postgraduate Scholarship, HKUST(GZ)
+- *2024,* Best Short Paper Award <img src='./images/star-medal.png' style='height: 1.5em;'>, CIKM 2024
 - *2023,* Silver Medal <img src='./images/silver-medal.png' style='height: 1.5em;'>, OTTO - Multi-Objective Recommender System, Kaggle Competition.
 - *2023,* Silver Medal <img src='./images/silver-medal.png' style='height: 1.5em;'>, Stable Diffusion - Image to Prompts, Kaggle Competition.
 - *2021,* Best Undergraduate Thesis (Remote Sensing Track) <img src='./images/certificate.png' style='height: 1.5em;'>
