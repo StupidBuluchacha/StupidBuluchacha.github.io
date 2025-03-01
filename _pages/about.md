@@ -137,6 +137,36 @@ Information Fusion Journal (**<span style="color:red;">IF=15</span>**)
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/mmunlearner_acl25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MMUnlearner: Reformulating Multimodal Machine Unlearning in the Era of Multimodal Large Language Models](https://arxiv.org/abs/2502.11051)
+
+Jiahao Huo\*, **<u>Yibo Yan</u>**\*, Xu Zheng, Yuanhuiyi Lyu, Xin Zou, Zhihua Wei, Xuming Hu†
+
+-  We propose to reformulate the task of multimodal MU in the era of MLLMs, and develop a novel geometry-constrained gradient descent method MMUnlearner.
+
+Under Review
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/essayjudge_acl25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EssayJudge: A Multi-Granular Benchmark for Assessing Automated Essay Scoring Capabilities of Multimodal Large Language Models](https://arxiv.org/abs/2502.11916)
+
+Jiamin Su\*, **<u>Yibo Yan</u>**\*, Fangteng Fu, Han Zhang, Jingheng Ye, Xiang Liu, Jiahao Huo, Huiyu Zhou, Xuming Hu†
+
+-   First multimodal benchmark to evaluate Automated Essay Scoring (AES)   capabilities across lexical-, sentence-, and discourse-level traits.
+
+Under Review
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/mmneuron_emnlp24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -179,6 +209,20 @@ Under Review
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/urbanvlp_kdd24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[UrbanVLP: A Multi-Granularity Vision-Language Pre-Trained Model for Urban Indicator Prediction](https://arxiv.org/abs/2403.16831)
+
+Xixuan Hao, Wei Chen, **<u>Yibo Yan</u>**, Siru Zhong, Kun Wang, Qingsong Wen, Yuxuan Liang†
+
+- First urban region representation learning framework that explores multi-granularity cross-modal alignment.
+
+39th Annual AAAI Conference on Artificial Intelligence (**AAAI'25**)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/urbancross_mm24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -193,19 +237,7 @@ Siru Zhong, Xixuan Hao, **<u>Yibo Yan</u>**, Ying Zhang, Yangqiu Song, Yuxuan Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/urbanvlp_kdd24.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[UrbanVLP: A Multi-Granularity Vision-Language Pre-Trained Model for Urban Indicator Prediction](https://arxiv.org/abs/2403.16831)
-
-Xixuan Hao, Wei Chen, **<u>Yibo Yan</u>**, Siru Zhong, Kun Wang, Qingsong Wen, Yuxuan Liang†
-
-- First urban region representation learning framework that explores multi-granularity cross-modal alignment.
-
-Under Review
-
-</div>
-</div>
 
 
 
@@ -246,8 +278,8 @@ Under Review
 # 🎖 Honors and Awards
 - *2024-2025,* Postgraduate Scholarship, HKUST(GZ)
 - *2024,* Best Short Paper Award <img src='./images/star-medal.png' style='height: 1.5em;'>, CIKM 2024
-- *2023,* Silver Medal <img src='./images/silver-medal.png' style='height: 1.5em;'>, OTTO - Multi-Objective Recommender System, Kaggle Competition.
-- *2023,* Silver Medal <img src='./images/silver-medal.png' style='height: 1.5em;'>, Stable Diffusion - Image to Prompts, Kaggle Competition.
+- *2023,* Silver Medal <img src='./images/silver-medal.png' style='height: 1.5em;'>, OTTO - Multi-Objective Recommender System, Kaggle Competition
+- *2023,* Silver Medal <img src='./images/silver-medal.png' style='height: 1.5em;'>, Stable Diffusion - Image to Prompts, Kaggle Competition
 - *2021,* Best Undergraduate Thesis (Remote Sensing Track) <img src='./images/certificate.png' style='height: 1.5em;'>
 - *2019-2020, 2020-2021,* First-class Academic Award <img src='./images/star-medal.png' style='height: 1.5em;'>, HKBU
 - *2017-2018, 2018-2019,* Second-class Academic Award <img src='./images/silver-medal.png' style='height: 1.5em;'>, HKBU
