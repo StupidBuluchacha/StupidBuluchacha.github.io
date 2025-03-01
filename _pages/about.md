@@ -176,7 +176,7 @@ Jiahao Huo, **<u>Yibo Yan</u>**, Boren Hu, Yutao Yue, Xuming Hu†
 
 - Investigation of the distribution of domain-specific neurons and the mechanism of how MLLMs process features from diverse domains.
 
-Conference on Empirical Methods in Natural Language Processing 2024, USA (**EMNLP'24**)
+Conference on Empirical Methods in Natural Language Processing 2024, Florida, USA (**EMNLP'24**)
 
 </div>
 </div>
@@ -214,11 +214,11 @@ Under Review
 
 [UrbanVLP: A Multi-Granularity Vision-Language Pre-Trained Model for Urban Indicator Prediction](https://arxiv.org/abs/2403.16831)
 
-Xixuan Hao, Wei Chen, **<u>Yibo Yan</u>**, Siru Zhong, Kun Wang, Qingsong Wen, Yuxuan Liang†
+Xixuan Hao\*, Wei Chen\*, **<u>Yibo Yan</u>**, Siru Zhong, Kun Wang, Qingsong Wen, Yuxuan Liang†
 
 - First urban region representation learning framework that explores multi-granularity cross-modal alignment.
 
-39th Annual AAAI Conference on Artificial Intelligence (**AAAI'25**)
+39th Annual AAAI Conference on Artificial Intelligence, Philadelphia, USA (**AAAI'25**)
 
 </div>
 </div>
