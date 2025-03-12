@@ -167,6 +167,20 @@ Under Review
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/causalmm_iclr25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality](https://arxiv.org/abs/2410.04780)
+
+Guanyu Zhou, **<u>Yibo Yan</u>**, Xin Zou, Kun Wang, Aiwei Liu, Xuming Hu†
+
+- A causal inference framework that applies structural causal modeling to MLLMs, treating modality priors as a confounder between attention mechanisms and output.
+
+13th International Conference on Learning Representations, Singapore (**ICLR'25**)
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/mmneuron_emnlp24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
