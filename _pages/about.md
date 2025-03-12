@@ -79,7 +79,7 @@ The International World Wide Web Conference 2024, Singapore (**WWW'24**)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/errorradar_icml25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR Workshop 2025</div><img src='images/errorradar_icml25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ErrorRadar: Benchmarking Complex Mathematical Reasoning of Multimodal Large Language Models Via Error Detection](https://arxiv.org/abs/2410.04509)
@@ -88,7 +88,8 @@ The International World Wide Web Conference 2024, Singapore (**WWW'24**)
 
 - First benchmark designed to assess MLLMs' complex reasoning capabilities in multimodal error detection.
 
-Under Review
+Workshop on Reasoning and Planning for LLMs, 13th International Conference on Learning Representations, Singapore (**ICLR Workshop'25**)
+
 
 </div>
 </div>
@@ -245,7 +246,7 @@ Siru Zhong, Xixuan Hao, **<u>Yibo Yan</u>**, Ying Zhang, Yangqiu Song, Yuxuan Li
 # 💻 Work Experience
 - *Jun 2024 - Now*, ***AI Research, Squirrel AI***, Remote. <img src='./images/squirrel.png' style='height: 1.3em;'>
   - **Focus**: Multimodal LLM for Education
-  - **Supervisors**: [Dr.Shen WANG](https://www.deep-mining.com/) (Principal Researcher of AI Research) and [Dr.Qingsong WEN](https://sites.google.com/site/qingsongwen8/home) (Head of AI Research & Chief Scientist)
+  - **Supervisors**: [Dr.Shen WANG](https://www.deep-mining.com/) (Staff Research Scientist) and [Dr.Qingsong WEN](https://sites.google.com/site/qingsongwen8/home) (Head of AI Research & Chief Scientist)
   - **Achievement**: Ongoing Project
 
 - *Feb 2024 - May 2024*, ***LLM Group, Institute for Advanced Algorithms Research, Shanghai***, Remote. <img src='./images/IAAR.png' style='height: 1.1em;'>
