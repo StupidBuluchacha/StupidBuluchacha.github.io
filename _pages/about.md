@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I obtained my master degree and bachelor degree from ***[School of Computing](https://www.comp.nus.edu.sg/), National University of Singapore (NUS)*** and ***Hong Kong Baptist University (HKBU)***, respectively. I am currently pursuing my PhD degree at ***Hong Kong University of Science and Technology*** under the supervision of [Prof.Xuming HU](https://xuminghu.github.io/). I am also interning at ***AI Research, Squirrel AI*** now, supervised by [Dr.Qingsong WEN](https://sites.google.com/site/qingsongwen8/home).
+Hi, I obtained my master degree and bachelor degree from ***[School of Computing](https://www.comp.nus.edu.sg/), National University of Singapore (NUS)*** and ***Hong Kong Baptist University (HKBU)***, respectively. I am currently pursuing my PhD degree at ***Hong Kong University of Science and Technology*** under the supervision of [Prof.Xuming HU](https://xuminghu.github.io/).
 
-Previously, I had extensive internship experience in both industry and academia, including ***NLP Team, ByteDance AI Lab*** (supervised by Mr.Yang WANG and [Dr.Hang LI](https://www.linkedin.com/in/hang-li-84aa6314/?originalSubdomain=cn), director of ByteDance Research), ***LLM Group, Institute for Advanced Algorithms Research*** (co-supervised by [Dr.Zhiyu LI](https://openreview.net/profile?id=~Zhiyu_li2), [Dr.Feiyu XIONG](https://scholar.google.com/citations?user=GOKgLdQAAAAJ&hl=en), and [Prof.Weinan E](https://web.math.princeton.edu/~weinan/)), ***Reefknot Investment*** (co-supervised by [Mr.Marc DRAGON](https://reefknotinvestments.com/team/marc-dragon/), managing director of Reefknot, and [Prof.Wei Ngan CHIN](https://www.comp.nus.edu.sg/~chinwn/), vice dean of SoC, NUS), and ***University of California, Berkeley*** (supervised by [Dr.Qing ZHU](https://bids.berkeley.edu/people/qing-zhu), research scientist at Lawrence Berkeleey National Laboratory). I also conducted research at CityMind Lab, HKUST(GZ) (led by [Prof.Yuxuan LIANG](https://yuxuanliang.com/)) before.
+Previously, I had extensive internship experience in both industry and academia, including ***NLP Team, ByteDance AI Lab*** (supervised by Mr.Yang WANG and [Dr.Hang LI](https://www.linkedin.com/in/hang-li-84aa6314/?originalSubdomain=cn), director of ByteDance Research), ***AI Research, Squirrel AI*** (supervised by [Dr.Qingsong WEN](https://sites.google.com/site/qingsongwen8/), head of AI and chief scientist), ***LLM Group, Institute for Advanced Algorithms Research*** (co-supervised by [Dr.Zhiyu LI](https://openreview.net/profile?id=~Zhiyu_li2), [Dr.Feiyu XIONG](https://scholar.google.com/citations?user=GOKgLdQAAAAJ&hl=en), and [Prof.Weinan E](https://web.math.princeton.edu/~weinan/)), ***Reefknot Investment*** (co-supervised by [Mr.Marc DRAGON](https://reefknotinvestments.com/team/marc-dragon/), managing director of Reefknot, and [Prof.Wei Ngan CHIN](https://www.comp.nus.edu.sg/~chinwn/), vice dean of SoC, NUS), and ***University of California, Berkeley*** (supervised by [Dr.Qing ZHU](https://bids.berkeley.edu/people/qing-zhu), research scientist at Lawrence Berkeleey National Laboratory). I also conducted research at CityMind Lab, HKUST(GZ) (led by [Prof.Yuxuan LIANG](https://yuxuanliang.com/)) before.
 
 My research interests include ***natural language processing <img src='./images/text-mining.png' style='height: 1.5em;'>, multimodal representation learning <img src='./images/multimedia.png' style='height: 1.5em;'>, data mining applications including urban computing <img src='./images/infrastructure.png' style='height: 1.5em;'> and recommendation systems <img src='./images/rating.png' style='height: 1.5em;'>***. Look forward to any academic collaboration.
 
@@ -102,6 +102,20 @@ Workshop on Reasoning and Planning for LLMs, 13th International Conference on Le
 **<u>Yibo Yan</u>**, Jiamin Su, Jianxiang He, Fangteng Fu, Xu Zheng, Yuanhuiyi Lyu, Kun Wang, Shen Wang, Qingsong Wen, Xuming Hu†
 
 -  First comprehensive analysis of mutlimodal mathematical reasoning in the era of MLLMs.
+
+Under Review
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/mathagent_acl25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MathAgent: Leveraging a Mixture-of-Math-Agent Framework for Real-World Multimodal Mathematical Error Detection](https://arxiv.org/abs/2503.18132)
+
+**<u>Yibo Yan</u>**, Shen Wang, Jiahao Huo, Philip S. Yu, Xuming Hu†, Qingsong Wen†
+
+- A novel Mixture-of-Math-Agent framework designed specifically to address mutlimodal error detection.
 
 Under Review
 
@@ -258,10 +272,10 @@ Siru Zhong, Xixuan Hao, **<u>Yibo Yan</u>**, Ying Zhang, Yangqiu Song, Yuxuan Li
 
 
 # 💻 Work Experience
-- *Jun 2024 - Now*, ***AI Research, Squirrel AI***, Remote. <img src='./images/squirrel.png' style='height: 1.3em;'>
+- *Jun 2024 - Apr 2025*, ***AI Research, Squirrel AI***, Remote. <img src='./images/squirrel.png' style='height: 1.3em;'>
   - **Focus**: Multimodal LLM for Education
   - **Supervisors**: [Dr.Shen WANG](https://www.deep-mining.com/) (Staff Research Scientist) and [Dr.Qingsong WEN](https://sites.google.com/site/qingsongwen8/home) (Head of AI Research & Chief Scientist)
-  - **Achievement**: Ongoing Project
+  - **Achievement**: Developed benchmark and algorithms for MLLM-based reasoning in real-life educational scenarios
 
 - *Feb 2024 - May 2024*, ***LLM Group, Institute for Advanced Algorithms Research, Shanghai***, Remote. <img src='./images/IAAR.png' style='height: 1.1em;'>
   - **Focus**: LLM Hallucination Mitigation
