@@ -210,6 +210,20 @@ Conference on Empirical Methods in Natural Language Processing 2024, Florida, US
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/memvr_iclr25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models](https://arxiv.org/abs/2410.03577)
+
+Xin Zou\*, Yizhou Wang\*, **<u>Yibo Yan</u>**, Sirui Huang, Kening Zheng, Junkai Chen, Chang Tang, Xuming Hu†
+
+- A novel hallucination mitigation paradigm that without the need for external knowledge retrieval or additional fine-tuning.
+
+42nd International Conference on Machine Learning, Vancouver, Canada (**ICML'25**)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/reefknot_aaai25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -224,19 +238,6 @@ Under Review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/memvr_iclr25.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models](https://arxiv.org/abs/2410.03577)
-
-Xin Zou\*, Yizhou Wang\*, **<u>Yibo Yan</u>**, Sirui Huang, Kening Zheng, Junkai Chen, Chang Tang, Xuming Hu†
-
-- A novel hallucination mitigation paradigm that without the need for external knowledge retrieval or additional fine-tuning.
-
-Under Review
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/urbanvlp_kdd24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
