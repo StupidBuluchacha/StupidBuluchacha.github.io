@@ -79,6 +79,23 @@ The International World Wide Web Conference 2024, Singapore (**WWW'24**)
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/mathagent_acl25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MathAgent: Leveraging a Mixture-of-Math-Agent Framework for Real-World Multimodal Mathematical Error Detection](https://arxiv.org/abs/2503.18132)
+
+**<u>Yibo Yan</u>**, Shen Wang, Jiahao Huo, Philip S. Yu, Xuming Hu†, Qingsong Wen†
+
+- A novel Mixture-of-Math-Agent framework designed specifically to address mutlimodal error detection.
+
+63rd Annual Meeting of the Association for Computational Linguistics, Vienna, Austria (**ACL'25**)
+
+<img src='./images/flames.png' style='height: 1.5em;'> **<span style="color:red;">Oral Presentation</span>**
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR Workshop 2025</div><img src='images/errorradar_icml25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -108,19 +125,6 @@ Under Review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/mathagent_acl25.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[MathAgent: Leveraging a Mixture-of-Math-Agent Framework for Real-World Multimodal Mathematical Error Detection](https://arxiv.org/abs/2503.18132)
-
-**<u>Yibo Yan</u>**, Shen Wang, Jiahao Huo, Philip S. Yu, Xuming Hu†, Qingsong Wen†
-
-- A novel Mixture-of-Math-Agent framework designed specifically to address mutlimodal error detection.
-
-Under Review
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/mllm4sci_position_icml25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
