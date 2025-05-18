@@ -40,6 +40,36 @@ My research interests include ***natural language processing <img src='./images/
 # 📝 Selected Publications
 **Note**: \* as Co-first Author; † as Corresponding Author
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/mathagent_acl25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MathAgent: Leveraging a Mixture-of-Math-Agent Framework for Real-World Multimodal Mathematical Error Detection](https://arxiv.org/abs/2503.18132)
+
+**<u>Yibo Yan</u>**, Shen Wang, Jiahao Huo, Philip S. Yu, Xuming Hu†, Qingsong Wen†
+
+- A novel Mixture-of-Math-Agent framework designed specifically to address mutlimodal error detection.
+
+63rd Annual Meeting of the Association for Computational Linguistics, Vienna, Austria (**ACL'25 Industry**)
+
+<img src='./images/flames.png' style='height: 1.5em;'> **<span style="color:red;">Oral Presentation</span>**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Finding 2025</div><img src='images/math_mllm_survey_acl25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Survey of Mathematical Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method & Challenges](https://arxiv.org/abs/2412.11936)
+
+**<u>Yibo Yan</u>**, Jiamin Su, Jianxiang He, Fangteng Fu, Xu Zheng, Yuanhuiyi Lyu, Kun Wang, Shen Wang, Qingsong Wen, Xuming Hu†
+
+-  First comprehensive analysis of mutlimodal mathematical reasoning in the era of MLLMs.
+
+63rd Annual Meeting of the Association for Computational Linguistics, Vienna, Austria (**ACL'25 Findings**)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/urbanclip_www24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -80,21 +110,7 @@ The International World Wide Web Conference 2024, Singapore (**WWW'24**)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/mathagent_acl25.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[MathAgent: Leveraging a Mixture-of-Math-Agent Framework for Real-World Multimodal Mathematical Error Detection](https://arxiv.org/abs/2503.18132)
-
-**<u>Yibo Yan</u>**, Shen Wang, Jiahao Huo, Philip S. Yu, Xuming Hu†, Qingsong Wen†
-
-- A novel Mixture-of-Math-Agent framework designed specifically to address mutlimodal error detection.
-
-63rd Annual Meeting of the Association for Computational Linguistics, Vienna, Austria (**ACL'25**)
-
-<img src='./images/flames.png' style='height: 1.5em;'> **<span style="color:red;">Oral Presentation</span>**
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR Workshop 2025</div><img src='images/errorradar_icml25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -111,19 +127,6 @@ Workshop on Reasoning and Planning for LLMs, 13th International Conference on Le
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/math_mllm_survey_acl25.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Survey of Mathematical Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method & Challenges](https://arxiv.org/abs/2412.11936)
-
-**<u>Yibo Yan</u>**, Jiamin Su, Jianxiang He, Fangteng Fu, Xu Zheng, Yuanhuiyi Lyu, Kun Wang, Shen Wang, Qingsong Wen, Xuming Hu†
-
--  First comprehensive analysis of mutlimodal mathematical reasoning in the era of MLLMs.
-
-Under Review
-
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/mllm4sci_position_icml25.png' alt="sym" width="100%"></div></div>
@@ -156,7 +159,7 @@ Information Fusion Journal (**<span style="color:red;">IF=15</span>**)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/mmunlearner_acl25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Finding 2025</div><img src='images/mmunlearner_acl25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MMUnlearner: Reformulating Multimodal Machine Unlearning in the Era of Multimodal Large Language Models](https://arxiv.org/abs/2502.11051)
@@ -165,12 +168,12 @@ Jiahao Huo\*, **<u>Yibo Yan</u>**\*, Xu Zheng, Yuanhuiyi Lyu, Xin Zou, Zhihua We
 
 -  We propose to reformulate the task of multimodal MU in the era of MLLMs, and develop a novel geometry-constrained gradient descent method MMUnlearner.
 
-Under Review
+63rd Annual Meeting of the Association for Computational Linguistics, Vienna, Austria (**ACL'25 Findings**)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/essayjudge_acl25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Finding 2025</div><img src='images/essayjudge_acl25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EssayJudge: A Multi-Granular Benchmark for Assessing Automated Essay Scoring Capabilities of Multimodal Large Language Models](https://arxiv.org/abs/2502.11916)
@@ -179,7 +182,7 @@ Jiamin Su\*, **<u>Yibo Yan</u>**\*, Fangteng Fu, Han Zhang, Jingheng Ye, Xiang L
 
 -   First multimodal benchmark to evaluate Automated Essay Scoring (AES)   capabilities across lexical-, sentence-, and discourse-level traits.
 
-Under Review
+63rd Annual Meeting of the Association for Computational Linguistics, Vienna, Austria (**ACL'25 Findings**)
 
 </div>
 </div>
@@ -228,7 +231,7 @@ Xin Zou\*, Yizhou Wang\*, **<u>Yibo Yan</u>**, Sirui Huang, Kening Zheng, Junkai
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/reefknot_aaai25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Finding 2025</div><img src='images/reefknot_aaai25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reefknot: A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models](https://arxiv.org/abs/2408.09429)
@@ -237,7 +240,7 @@ Kening Zheng\*, Junkai Chen\*, **<u>Yibo Yan</u>**, Xin Zou, Xuming Hu†
 
 - A comprehensive benchmark specifically targeting relation hallucinations, consisting of over 20k samples derived from real-world scenarios.
 
-Under Review
+63rd Annual Meeting of the Association for Computational Linguistics, Vienna, Austria (**ACL'25 Findings**)
 
 </div>
 </div>
