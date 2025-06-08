@@ -200,6 +200,20 @@ Under Review
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/physicsarena_emnlp25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PhysicsArena: The First Multimodal Physics Reasoning Benchmark Exploring Variable, Process, and Solution Dimensions](https://arxiv.org/pdf/2505.15472?)
+
+Song Dai\*, **<u>Yibo Yan</u>**\*, Jiamin Su, Dongfang Zihao, Yubo Gao, Yonghua Hei, Jungang Li, Junyan Zhang, Sicheng Tao, Zhuoran Gao, Xuming Hu†
+
+- First multimodal physics reasoning benchmark designed to holistically evaluate MLLMs across three critical dimensions: variable identification, physical process formulation, and solution derivation.
+
+Under Review
+
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/causalmm_iclr25.png' alt="sym" width="100%"></div></div>
@@ -231,6 +245,20 @@ Conference on Empirical Methods in Natural Language Processing 2024, Florida, US
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/cafes_emnlp25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CAFES: A Collaborative Multi-Agent Framework for Multi-Granular Multimodal Essay Scoring](https://arxiv.org/pdf/2505.13965?)
+
+Jiamin Su, **<u>Yibo Yan</u>**, Zhuoran Gao, Han Zhang, Xiang Liu, Xuming Hu†
+
+- First collaborative multi-agent framework specifically designed for Automated Essay Scoring.
+
+Under Review
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/memvr_iclr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -255,6 +283,20 @@ Kening Zheng\*, Junkai Chen\*, **<u>Yibo Yan</u>**, Xin Zou, Xuming Hu†
 - A comprehensive benchmark specifically targeting relation hallucinations, consisting of over 20k samples derived from real-world scenarios.
 
 63rd Annual Meeting of the Association for Computational Linguistics, Vienna, Austria (**ACL'25 Findings**)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/sparcom_emnlp25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Unveiling Instruction-Specific Neurons & Experts: An Analytical Framework for LLM's Instruction-Following Capabilities](https://arxiv.org/pdf/2505.21191)
+
+Junyan Zhang\*, Yubo Gao\*, **<u>Yibo Yan</u>**, Jungang Li, Zhaorui Hou, Sicheng Tao, Shuliang Liu, Song Dai, Yonghua Hei, Junzhuo Li, Xuming Hu†
+
+- A novel analytical framework for identification of instruction-specific sparse components of LLMs, and evaluation of their functional generality and uniqueness.
+
+Under Review
 
 </div>
 </div>
