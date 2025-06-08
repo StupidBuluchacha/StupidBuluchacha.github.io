@@ -143,22 +143,6 @@ Under Review
 </div>
 </div>
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">InfoFusion 2024</div><img src='images/multimodal_survey_InformationFusion24.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Learning for Cross-Domain Data Fusion in Urban Computing: Taxonomy, Advances, and Outlook](https://arxiv.org/abs/2402.19348)
-
-Xingchen Zou\*, **<u>Yibo Yan</u>**\*, Xixuan Hao, Yuehong Hu, Haomin Wen, Erdong Liu, Junbo Zhang, Yong Li, Tianrui Li, Yu Zheng, Yuxuan Liang†
-
-- First comprehensive survey that systematically reviews studies on deep learning-based multimodal and multi-source data fusion models in urban computing.
-
-Information Fusion Journal (**<span style="color:red;">IF=15</span>**)
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Finding 2025</div><img src='images/mmunlearner_acl25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -186,6 +170,36 @@ Jiamin Su\*, **<u>Yibo Yan</u>**\*, Fangteng Fu, Han Zhang, Jingheng Ye, Xiang L
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">InfoFusion 2024</div><img src='images/multimodal_survey_InformationFusion24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Learning for Cross-Domain Data Fusion in Urban Computing: Taxonomy, Advances, and Outlook](https://arxiv.org/abs/2402.19348)
+
+Xingchen Zou\*, **<u>Yibo Yan</u>**\*, Xixuan Hao, Yuehong Hu, Haomin Wen, Erdong Liu, Junbo Zhang, Yong Li, Tianrui Li, Yu Zheng, Yuxuan Liang†
+
+- First comprehensive survey that systematically reviews studies on deep learning-based multimodal and multi-source data fusion models in urban computing.
+
+Information Fusion Journal (**<span style="color:red;">IF=15</span>**)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/phantomcircuit_emnlp25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Pierce the Mists, Greet the Sky: Decipher Knowledge Overshadowing via Knowledge Circuit Analysis](https://arxiv.org/pdf/2505.14406?)
+
+Haoming Huang\*, **<u>Yibo Yan</u>**\*, Jiahao Huo, Xin Zou, Xinfeng Li, Kun Wang, Xuming Hu†
+
+- A novel framework designed to comprehensively analyze and detect knowledge overshadowing, a particularly challenging variant of LLM hallucinations.
+
+Under Review
+
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/causalmm_iclr25.png' alt="sym" width="100%"></div></div>
@@ -246,7 +260,10 @@ Kening Zheng\*, Junkai Chen\*, **<u>Yibo Yan</u>**, Xin Zou, Xuming Hu†
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/urbanvlp_kdd24.png' alt="sym" width="100%"></div></div>
+
+
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/urbanvlp_kdd24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [UrbanVLP: A Multi-Granularity Vision-Language Pre-Trained Model for Urban Indicator Prediction](https://arxiv.org/abs/2403.16831)
@@ -272,7 +289,7 @@ Siru Zhong, Xixuan Hao, **<u>Yibo Yan</u>**, Ying Zhang, Yangqiu Song, Yuxuan Li
 32nd ACM Multimedia Conference, Melbourne, Australia (**ACM MM'24**)
 
 </div>
-</div>
+</div> -->
 
 
 
