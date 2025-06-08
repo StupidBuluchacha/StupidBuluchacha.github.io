@@ -339,6 +339,11 @@ Siru Zhong, Xixuan Hao, **<u>Yibo Yan</u>**, Ying Zhang, Yangqiu Song, Yuxuan Li
 
 
 # 💻 Work Experience
+- *Jun 2025 - Now*, ***Alibaba Group***, Remote. <img src='./images/alibaba.png' style='height: 1.3em;'>
+  - **Focus**: Multimodal LLM
+  - **Supervisors**:
+  - **Achievement**: On-going projects
+
 - *Jun 2024 - Apr 2025*, ***AI Research, Squirrel AI***, Remote. <img src='./images/squirrel.png' style='height: 1.3em;'>
   - **Focus**: Multimodal LLM for Education
   - **Supervisors**: [Dr.Shen WANG](https://www.deep-mining.com/) (Staff Research Scientist) and [Dr.Qingsong WEN](https://sites.google.com/site/qingsongwen8/home) (Head of AI Research & Chief Scientist)
