@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I obtained my master degree and bachelor degree from ***[School of Computing](https://www.comp.nus.edu.sg/), National University of Singapore (NUS)*** and ***Hong Kong Baptist University (HKBU)***, respectively. I am currently pursuing my PhD degree at ***Hong Kong University of Science and Technology*** under the supervision of [Prof.Xuming HU](https://xuminghu.github.io/) (Assistant Professor of AI Thrust, GZ Campus) and [Prof.James KWOK](https://www.cse.ust.hk/~jamesk/) (Professor of CSE, CWB Campus; IEEE Fellow).
+Hi, I obtained my master degree and bachelor degree from ***[School of Computing](https://www.comp.nus.edu.sg/), National University of Singapore (NUS)*** and ***Hong Kong Baptist University (HKBU)***, respectively. I am currently pursuing my PhD degree at ***Hong Kong University of Science and Technology*** under the supervision of [Prof.Xuming HU](https://xuminghu.github.io/) (Assistant Professor of AI Thrust, GZ Campus) and [Prof.James KWOK](https://www.cse.ust.hk/~jamesk/) (Professor of CSE, CWB Campus; IEEE Fellow). I am also conducting research at ***Alibaba Group***.
 
 Previously, I had extensive internship experience in both industry and academia, including ***NLP Team, ByteDance AI Lab*** (supervised by Mr.Yang WANG and [Dr.Hang LI](https://www.linkedin.com/in/hang-li-84aa6314/?originalSubdomain=cn), director of ByteDance Research), ***AI Research, Squirrel AI*** (supervised by [Dr.Qingsong WEN](https://sites.google.com/site/qingsongwen8/), head of AI and chief scientist), ***LLM Group, Institute for Advanced Algorithms Research*** (co-supervised by [Dr.Zhiyu LI](https://openreview.net/profile?id=~Zhiyu_li2), [Dr.Feiyu XIONG](https://scholar.google.com/citations?user=GOKgLdQAAAAJ&hl=en), and [Prof.Weinan E](https://web.math.princeton.edu/~weinan/)), ***Reefknot Investment*** (co-supervised by [Mr.Marc DRAGON](https://reefknotinvestments.com/team/marc-dragon/), managing director of Reefknot, and [Prof.Wei Ngan CHIN](https://www.comp.nus.edu.sg/~chinwn/), vice dean of SoC, NUS), and ***University of California, Berkeley*** (supervised by [Dr.Qing ZHU](https://bids.berkeley.edu/people/qing-zhu), research scientist at Lawrence Berkeleey National Laboratory). I also conducted research at CityMind Lab, HKUST(GZ) (led by [Prof.Yuxuan LIANG](https://yuxuanliang.com/)) before.
 
@@ -339,10 +339,10 @@ Siru Zhong, Xixuan Hao, **<u>Yibo Yan</u>**, Ying Zhang, Yangqiu Song, Yuxuan Li
 
 
 # 💻 Work Experience
-<!-- - *Jun 2025 - Now*, ***Alibaba Group***, Remote. <img src='./images/alibaba.png' style='height: 1.3em;'>
-  - **Focus**: Multimodal LLM
-  - **Supervisors**:
-  - **Achievement**: On-going projects -->
+- *Jun 2025 - Now*, ***Alibaba***, Hangzhou, China. <img src='./images/alibaba.png' style='height: 1.3em;'>
+  - **Focus**: Multimodal Retrieval and Search of LLMs
+  - **Supervisors**: [Mr.Guangwei XU](https://openreview.net/profile?id=~Guangwei_Xu2) (Senior Algorithm Researcher) and [Mr.Shaomin XING](https://www.alibabacloud.com/blog/key-technologies-for-optimization-of-enterprise-level-rag_601723) (Head of AI Search, Alibaba Cloud)
+  - **Achievement**: On-going projects
 
 - *Jun 2024 - Apr 2025*, ***AI Research, Squirrel AI***, Remote. <img src='./images/squirrel.png' style='height: 1.3em;'>
   - **Focus**: Multimodal LLM for Education
